@@ -1,0 +1,17 @@
+html, body {
+  overflow: hidden;
+  height: 100%;
+}
+
+body {
+  background: url(keith.jpg) no-repeat center 66%;
+  background-size: cover;
+  font-size: 16px;
+}
+
+h1 {
+  color: white;
+  font-family: helvetica, verdana, sans-serif;
+  font-size: 2rem;
+  text-align: center;
+}
